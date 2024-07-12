@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <a href="registration.jsp">Register New User</a>
         <h1>Login Using MVC-DAO</h1>
         <form action="LoginServlet" method="post">
             <table>
